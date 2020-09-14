@@ -1,16 +1,24 @@
 # Calindra Omelete Store Web App
 
 Web App project that get the products from search API from https://store.omelete.com.br
+<br><br>
 
 ## Key technologies
-- [ReactJS] ReacJS Web Framework
-- [TypeScript] TypeScript
+- [ReactJS](https://reactjs.org/) Web Framework
+- [TypeScript](https://www.typescriptlang.org/) Lang
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br><br>
+
+## Online Version
+
+This WebApp is online at [https://omelete-product-search.herokuapp.com/](https://omelete-product-search.herokuapp.com/).
+<br><br>
 
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `yarn start`
 
